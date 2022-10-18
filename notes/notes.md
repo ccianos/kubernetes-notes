@@ -22,3 +22,14 @@
 - All questions include the required context, along with the tasks that must be solved via CLI.
 - Questions can be flagged and returned to at any time during the exam.
 - The percentage of each task will be visible to the examinee.
+
+- CKA Exam Curriculum:
+- The testing domains are Cluster Architecture, Installation and Configuration, Workloads and Scheduling, Services and Networking, Storage and Troubleshooting.
+    - 25% Cluster Architecture, Installation and Configuration:
+        - Manage RBAC.
+        - Install a basic cluster with Kubeadm. 
+        - Manage a HA Kubernetes clusters.
+        - Provision infrastructure to deploy a Kubernetes cluster.
+        - Perform a version upgrade on a Kubernetes cluster using Kubeadm.
+        - Implement etcd backup and restore.
+    - 15% Workloads and Scheduling:
